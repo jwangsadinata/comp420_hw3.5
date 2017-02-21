@@ -9,8 +9,8 @@ Take a screenshot of your login page and include it in the final submission.
 
 In the screenshots folder you will find an image of a login page for Hype Enterprise found online, and a screenshot of a knock-off made by us for a site called Hipster Desk.
 
-![example](https://github.com/jwangsadinata/comp420_hw2/blob/master/screenshots/hype_enterprise.png)
-![example](https://github.com/jwangsadinata/comp420_hw2/blob/master/screenshots/hipster_desk.png)
+![example](https://github.com/jwangsadinata/comp420_hw3.5/blob/master/screenshots/hype_enterprise.png)
+![example](https://github.com/jwangsadinata/comp420_hw3.5/blob/master/screenshots/hipster_desk.png)
 
 Submission Instructions
 -----------------------
